@@ -2,6 +2,7 @@
     <element db_object_id="8faf811607367110488df1d08c1ed0e6" label="Leave Bucket" max_length="40" name="x_687040_lms_leave_bucket" type="collection">
         <element label="Accured" max_length="40" name="accured" type="float"/>
         <element label="Balance" max_length="40" name="balance" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="Comment" max_length="40" name="comment" type="string"/>
         <element label="Employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
         <element label="Last Year Balance" max_length="40" name="last_year_balance" type="string"/>
         <element choice="1" choice_field="leave_type" choice_table="x_687040_lms_leave_request" label="Leave Type" max_length="40" name="leave_type" type="choice">

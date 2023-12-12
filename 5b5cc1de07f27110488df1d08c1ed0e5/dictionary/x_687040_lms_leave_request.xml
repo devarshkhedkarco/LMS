@@ -33,7 +33,6 @@
             </choice>
         </element>
         <element label="Taken" max_length="40" name="taken" type="float"/>
-        <element default="40" label="Test" max_length="40" name="test" type="string"/>
         <index name="index">
             <element name="requested_by"/>
         </index>

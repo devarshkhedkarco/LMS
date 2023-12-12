@@ -9,6 +9,7 @@
             <choice/>
         </element>
         <element label="Taken" max_length="40" name="taken" type="float"/>
+        <element label="Testing" max_length="40" name="testing" type="string"/>
         <index name="index">
             <element name="employee"/>
         </index>

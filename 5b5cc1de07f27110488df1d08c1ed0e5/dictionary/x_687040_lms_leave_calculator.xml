@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="9d08595e07367110488df1d08c1ed0c0" label="Leave calculator" max_length="40" name="x_687040_lms_leave_calculator" type="collection">
         <element default="40" label="Comment" max_length="40" name="comment" type="string"/>
+        <element default="40" label="Comments V2" max_length="40" name="comments_v2" type="string"/>
         <element label="Country" max_length="32" name="country" reference="core_country" type="reference"/>
         <element label="End Month" max_length="40" name="end_month" type="string"/>
         <element label="Leaves" max_length="40" name="leaves" type="float"/>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Move to Network">ccaf7758071b7110488df1d08c1ed0d7</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 08:34:38</sys_created_on>
+        <sys_id>8bd8e4bc071bb110488df1d08c1ed026</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Central Office</sys_name>
+        <sys_package display_value="Leave Management system" source="x_687040_lms">5b5cc1de07f27110488df1d08c1ed0e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management system">5b5cc1de07f27110488df1d08c1ed0e5</sys_scope>
+        <sys_update_name>question_choice_8bd8e4bc071bb110488df1d08c1ed026</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 08:34:38</sys_updated_on>
+        <text>Central Office</text>
+        <value>co</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=8bd8e4bc071bb110488df1d08c1ed026"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>8bd8e4bc071bb110488df1d08c1ed026</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 08:34:38</sys_created_on>
+        <sys_id>54e8e030075bb110488df1d08c1ed0c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 08:34:38</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>8bd8e4bc071bb110488df1d08c1ed026</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 08:34:38</sys_created_on>
+        <sys_id>d8e8e030075bb110488df1d08c1ed0bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 08:34:38</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

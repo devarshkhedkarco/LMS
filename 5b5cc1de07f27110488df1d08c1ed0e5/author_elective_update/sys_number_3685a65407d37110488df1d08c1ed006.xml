@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_687040_lms_asc_request">x_687040_lms_asc_request</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ASC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-20 04:22:32</sys_created_on>
+        <sys_id>3685a65407d37110488df1d08c1ed006</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ASC</sys_name>
+        <sys_package display_value="Leave Management system" source="x_687040_lms">5b5cc1de07f27110488df1d08c1ed0e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management system">5b5cc1de07f27110488df1d08c1ed0e5</sys_scope>
+        <sys_update_name>sys_number_3685a65407d37110488df1d08c1ed006</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-20 04:22:32</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management system">5b5cc1de07f27110488df1d08c1ed0e5</application>
+        <file_path/>
+        <instance_id>e25c7d9ddb1bfbc80ae3ac44d496193c</instance_id>
+        <instance_name>dev91600</instance_name>
+        <name>sys_number_3685a65407d37110488df1d08c1ed006</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_687040_lms_asc_request">x_687040_lms_asc_request</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>ASC</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-20 04:22:32</sys_created_on><sys_id>3685a65407d37110488df1d08c1ed006</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ASC</sys_name><sys_package display_value="Leave Management system" source="x_687040_lms">5b5cc1de07f27110488df1d08c1ed0e5</sys_package><sys_policy/><sys_scope display_value="Leave Management system">5b5cc1de07f27110488df1d08c1ed0e5</sys_scope><sys_update_name>sys_number_3685a65407d37110488df1d08c1ed006</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-20 04:22:32</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>2019353827</payload_hash>
+        <record_name>ASC</record_name>
+        <reverted_from/>
+        <source>a7f8fc2d078b3510488df1d08c1ed067</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-20 04:22:32</sys_created_on>
+        <sys_id>2d952e5407d37110488df1d08c1ed08f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c857601000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-20 04:22:32</sys_updated_on>
+        <type>Number</type>
+        <update_guid>65952e54c4d37110de2b3dbf68ed0b8f</update_guid>
+        <update_guid_history>65952e54c4d37110de2b3dbf68ed0b8f:2019353827</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-20 04:29:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>015bd7b7ae3a4798801c260cb8ed0b10</sys_id>
+        <sys_metadata>3685a65407d37110488df1d08c1ed006</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ASC</sys_name>
+        <sys_package display_value="Leave Management system" source="x_687040_lms">5b5cc1de07f27110488df1d08c1ed0e5</sys_package>
+        <sys_parent display_value="ASC Request">3c6b554807133110488df1d08c1ed0d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management system">5b5cc1de07f27110488df1d08c1ed0e5</sys_scope>
+        <sys_scope_delete display_value="">0eecf952fc73419e81b22732b0042e64</sys_scope_delete>
+        <sys_update_name>sys_number_3685a65407d37110488df1d08c1ed006</sys_update_name>
+        <sys_update_version display_value="sys_number_3685a65407d37110488df1d08c1ed006">2d952e5407d37110488df1d08c1ed08f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-20 04:29:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
